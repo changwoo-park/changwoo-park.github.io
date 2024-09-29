@@ -9,56 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Working papers
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+1. "Stable matchings under two-sided asymmetric incomplete information", Job market paper
+2. "Obviously strategy-proof implementation for mixed-ownership object-allocation problems"
+3. "The local-global equivalence on general networks", with Wonki Jo Cho
+4. "Group incentive-compatible allocation of discrete resources when ownership is partitioned", with Wataru Ishida
+5. "Ordinal and ex-ante efficiency notions for probabilistic assignments in two-sided matching problems"
+======
 
-Work experience
+Published paper
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* "Fractional group identification", with Wonki Jo Cho, 2018, Journal of Mathematical Economics, 77, 66-75
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+======
   
-Skills
+Work in progress
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* "When are stable correspondences Nash-implementable under distributional constraints?", with Wataru Ishida and Ryoken Nagashima.
+* "Ranking when populations vary: An axiomatic characterization of ranking-by-rating rules"
