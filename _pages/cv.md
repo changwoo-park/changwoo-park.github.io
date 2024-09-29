@@ -16,14 +16,13 @@ Working papers
 3. "The local-global equivalence on general networks", with Wonki Jo Cho
 4. "Group incentive-compatible allocation of discrete resources when ownership is partitioned", with Wataru Ishida
 5. "Ordinal and ex-ante efficiency notions for probabilistic assignments in two-sided matching problems"
-======
+
 
 Published paper
 ======
 * "Fractional group identification", with Wonki Jo Cho, 2018, Journal of Mathematical Economics, 77, 66-75
 
-======
-  
+
 Work in progress
 ======
 * "When are stable correspondences Nash-implementable under distributional constraints?", with Wataru Ishida and Ryoken Nagashima.
