@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 
-Ph.D. candidate, _On the 2024-2025 job market_
+Ph.D. candidate, **On the 2024-2025 job market**
 
 Department of Economics, University of Rochester
 
