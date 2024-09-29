@@ -9,25 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Working papers
+Instructor, University of Rochester
 ======
-1. "Stable matchings under two-sided asymmetric incomplete information", _Job market paper_
-2. "Obviously strategy-proof implementation for mixed-ownership object-allocation problems"
-3. "The local-global equivalence on general networks", with [Wonki Jo Cho](https://sites.google.com/site/wonkijocho/)
-    - **Revise and Resubmit at _Journal of Economic Theory_**
-4. "Group incentive-compatible allocation of discrete resources when ownership is partitioned", with [Wataru Ishida](https://sites.google.com/view/wataruishida/home)
-    - **Revise and Resubmit at _Games and Economic Behavior_**
-5. "Ordinal and ex-ante efficiency notions for probabilistic assignments in two-sided matching problems"
+* Math camp (G): Summer 2021, Summer 2022
    
 ---
 
-Published paper
+Teaching Assistant, University of Rochester
 ======
-* "Fractional group identification", with Wonki Jo Cho, 2018, _Journal of Mathematical Economics_, 77, 66-75
+* Industrial Organization (UG): Spring 2024 (Yu Awaya)
+* Game Theory (UG): Fall 2023 (Paulo Barelli)
+* Modern Value Theory II (G): Spring 2022, Spring 2023 (Paulo Barelli and William Thomson)
+* Modern Value Theory I (G): Fall 2021, Fall 2022 (Asen Kochov and Yu Awaya)
   
 ---
 
-Work in progress
+Teaching Assistant, Korea University
 ======
-* "When are stable correspondences Nash-implementable under distributional constraints?", with [Wataru Ishida](https://sites.google.com/view/wataruishida/home) and [Ryoken Nagashima](https://www.econ.kyoto-u.ac.jp/en/).
-* "Ranking when populations vary: An axiomatic characterization of ranking-by-rating rules"
+* Intermediate Microeconomics (UG): Spring 2019 (Kiho Yoon)
+* Economics of Strategy and Information (UG): Spring 2018 (Wonki Jo Cho), Fall 2018 (Kiho Yoon) 
