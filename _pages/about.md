@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 ---
-
 Ph.D. candidate, **On the 2024-2025 job market**
 
 Department of Economics, University of Rochester
