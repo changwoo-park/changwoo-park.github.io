@@ -11,11 +11,11 @@ redirect_from:
 
 Working papers
 ======
-1. "Stable matchings under two-sided asymmetric incomplete information", Job market paper
+1. "Stable matchings under two-sided asymmetric incomplete information", _Job market paper_
 2. "Obviously strategy-proof implementation for mixed-ownership object-allocation problems"
-3. "The local-global equivalence on general networks", with Wonki Jo Cho
+3. "The local-global equivalence on general networks", with [Wonki Jo Cho]([https://pages.github.com/](https://sites.google.com/site/wonkijocho/)
     - **Revise and Resubmit at _Journal of Economic Theory_**
-4. "Group incentive-compatible allocation of discrete resources when ownership is partitioned", with Wataru Ishida
+4. "Group incentive-compatible allocation of discrete resources when ownership is partitioned", with [Wataru Ishida](https://sites.google.com/view/wataruishida/home)
     - **Revise and Resubmit at _Games and Economic Behavior_**
 5. "Ordinal and ex-ante efficiency notions for probabilistic assignments in two-sided matching problems"
 
@@ -27,5 +27,5 @@ Published paper
 
 Work in progress
 ======
-* "When are stable correspondences Nash-implementable under distributional constraints?", with Wataru Ishida and Ryoken Nagashima.
+* "When are stable correspondences Nash-implementable under distributional constraints?", with [Wataru Ishida](https://sites.google.com/view/wataruishida/home) and [Ryoken Nagashima](https://www.econ.kyoto-u.ac.jp/en/).
 * "Ranking when populations vary: An axiomatic characterization of ranking-by-rating rules"
