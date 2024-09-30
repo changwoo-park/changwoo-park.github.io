@@ -13,6 +13,7 @@ Working papers
 ======
 1. "Stable matchings under two-sided asymmetric incomplete information", _Job market paper_
 2. "Obviously strategy-proof implementation for mixed-ownership object-allocation problems"
+    - **Submitted**
 3. "The local-global equivalence on general networks", with [Wonki Jo Cho](https://sites.google.com/site/wonkijocho/)
     - **Revise and Resubmit at _Journal of Economic Theory_**
 4. "Group incentive-compatible allocation of discrete resources when ownership is partitioned", with [Wataru Ishida](https://sites.google.com/view/wataruishida/home)
