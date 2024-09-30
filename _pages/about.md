@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Welcome"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
----
+Welcome
+======
 Ph.D. candidate, **On the 2024-2025 job market**
 
 Department of Economics, University of Rochester
