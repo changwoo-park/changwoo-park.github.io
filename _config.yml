@@ -23,9 +23,7 @@ author:
   # Biographic information
   avatar           : "Parkprofilegithub.JPG"
   name             : "Changwoo Park"  
-  bio              : "Ph.D. candidate"
-  location         : "Department of Economics"
-  location         : "University of Rochester"
+  bio              : "Department of Economics \n University of Rochester"
   location         : "Rochester, NY, USA"
   email            : "cpark47@ur.rochester.edu" 
 
