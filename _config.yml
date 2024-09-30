@@ -22,12 +22,10 @@ repository               : "https://changwoo-park.github.io/"
 author:
   # Biographic information
   avatar           : "Parkprofilegithub.JPG"
-  name             : "Changwoo Park"
- # pronouns         : # example: "she/her"  
- # bio              : "Short biography for the left-hand sidebar"
+  name             : "Changwoo Park"  
+  bio              : "Ph.D. candidate"
   location         : "Rochester, NY, USA"
   employer         : "University of Rochester"
- # uri              : # URL
   email            : "cpark47@ur.rochester.edu" 
 
   # Academic websites
