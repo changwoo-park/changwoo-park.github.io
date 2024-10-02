@@ -16,4 +16,4 @@ Department of Economics, University of Rochester
 
 **Research interests:** Microeconomic theory, Market design, Game theory
 
-**Email:** changwoo.park@rochester.edu
+**Email:** cpark47@ur.rochester.edu
