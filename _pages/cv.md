@@ -24,7 +24,7 @@ Working papers
 
 Published paper
 ======
-* "Fractional group identification", with Wonki Jo Cho, 2018, _Journal of Mathematical Economics_, 77, 66-75
+* "[Fractional group identification](https://www.sciencedirect.com/science/article/pii/S0304406818300661?casa_token=lK0vkP0iJ7EAAAAA:ArDpgRQOYAJGz7acM5TsSnScwUSySRfjmxqw2vyhTHlsZ0Ejd0omFV2-n-NM6StpQiGzHxkjMQ)", with Wonki Jo Cho, 2018, _Journal of Mathematical Economics_, 77, 66-75
   
 ---
 
