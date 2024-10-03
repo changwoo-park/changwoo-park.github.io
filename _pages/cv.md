@@ -12,11 +12,11 @@ redirect_from:
 Working papers
 ======
 1. "Stable matchings under two-sided asymmetric incomplete information", _Job market paper_
-2. "Obviously strategy-proof implementation for mixed-ownership object-allocation problems"
+2. "[Obviously strategy-proof implementation for mixed-ownership object-allocation problems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551159)"
     - **Submitted**
-3. "The local-global equivalence on general networks", with [Wonki Jo Cho](https://sites.google.com/site/wonkijocho/)
+3. "[The local-global equivalence on general networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551159)", with [Wonki Jo Cho](https://sites.google.com/site/wonkijocho/)
     - **Revise and Resubmit at _Journal of Economic Theory_**
-4. "Group incentive-compatible allocation of discrete resources when ownership is partitioned", with [Wataru Ishida](https://sites.google.com/view/wataruishida/home)
+4. "[Group incentive-compatible allocation of discrete resources when ownership is partitioned](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4832592)", with [Wataru Ishida](https://sites.google.com/view/wataruishida/home)
     - **Revise and Resubmit at _Games and Economic Behavior_**
 5. "Ordinal and ex-ante efficiency notions for probabilistic assignments in two-sided matching problems"
    
