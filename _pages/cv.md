@@ -18,7 +18,6 @@ Working papers
     - **Revise and Resubmit at _Games and Economic Behavior_**
 4. "[Obviously strategy-proof implementation for mixed-ownership object-allocation problems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4949058)"
     - **Submitted**
-5. "Ordinal and ex-ante efficiency notions for probabilistic assignments in two-sided matching problems"
    
 ---
 
@@ -31,4 +30,4 @@ Published paper
 Work in progress
 ======
 * "When are stable correspondences Nash-implementable under distributional constraints?", with [Wataru Ishida](https://sites.google.com/view/wataruishida/home) and [Ryoken Nagashima](https://www.econ.kyoto-u.ac.jp/en/).
-* "Ranking when populations vary: An axiomatic characterization of ranking-by-rating rules"
+* "Ordinal and ex-ante efficiency notions for probabilistic assignments in two-sided matching problems"
