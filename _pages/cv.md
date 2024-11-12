@@ -17,7 +17,6 @@ Working papers
 3. "[Group incentive-compatible allocation of discrete resources when ownership is partitioned](https://drive.google.com/file/d/1lErVNURcytjaIDldtnD_6DrwlNtZQf0M/view?usp=sharing)", with [Wataru Ishida](https://sites.google.com/view/wataruishida/home)
     - **Revise and Resubmit at _Games and Economic Behavior_**
 4. "[Obviously strategy-proof implementation for mixed-ownership object-allocation problems](https://drive.google.com/file/d/1UOMWvMwaWOoo_opLZstKaNebRRQq6qcy/view?usp=sharing)"
-    - **Submitted**
    
 ---
 
