@@ -21,24 +21,7 @@ repository               : "https://changwoo-park.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  #avatar           : "Parkprofilegithub.JPG"
-  avatar {
-    /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
-    background-image: "Parkprofilegithub.JPG";
-    
-    /* make a square container */
-    width: 150px;
-    height: 150px;
-
-    /* fill the container, preserving aspect ratio, and cropping to fit */
-    background-size: cover;
-
-    /* center the image vertically and horizontally */
-    background-position: top center;
-
-    /* round the edges to a circle with border radius 1/2 container size */
-    border-radius: 50%;
-}
+  avatar           : "Parkprofilegithub.JPG"
   name             : "Changwoo Park"  
   bio              : "Department of Economics <br> University of Rochester"
   location         : "Rochester, NY, USA"
