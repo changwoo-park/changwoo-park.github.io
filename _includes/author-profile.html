@@ -3,11 +3,7 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
-.custom-avatar {
-    border-radius: 0;
-    width: 150px;
-    height: 150px;
-}
+
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
@@ -17,7 +13,13 @@
     	<img src="profile.jpg" class="custom-avatar">
     {% endif %}
   </div>
-
+  
+.custom-avatar {
+    border-radius: 0;
+    width: 150px;
+    height: 150px;
+}
+  
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
