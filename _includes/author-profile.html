@@ -6,13 +6,12 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="profile.jpg" class="custom-avatar">
-    {% else %}
-    	<img src="profile.jpg" class="custom-avatar">
-    {% endif %}
-  </div>
+<img src="profile.jpg" class="custom-avatar">
+  .custom-avatar {
+    border-radius: 0;
+    width: 150px;
+    height: 150px;
+}
   
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
