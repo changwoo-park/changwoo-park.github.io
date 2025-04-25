@@ -13,8 +13,8 @@ Working papers
 ======
 1. "Stable matchings under two-sided asymmetric incomplete information"
     - New version coming soon
-2. "[The local-global equivalence on general networks: Theory](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551159)", with [Wonki Jo Cho](https://sites.google.com/site/wonkijocho/)
-3. "[The local-global equivalence on general networks: Applications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219192)", with [Wonki Jo Cho](https://sites.google.com/site/wonkijocho/)
+2. "[The local-global equivalence on general networks: Theory](https://drive.google.com/file/d/1_zNNjCxKb_XBzTq5vQGD6PjPahLkwMAh/view?usp=sharing)", with [Wonki Jo Cho](https://sites.google.com/site/wonkijocho/)
+3. "[The local-global equivalence on general networks: Applications](https://drive.google.com/file/d/1ps3jQ4y27Z-KtMxIUolWaI5ujlFXXSEy/view?usp=sharing)", with [Wonki Jo Cho](https://sites.google.com/site/wonkijocho/)
 4. "[Group incentive-compatible allocation of discrete resources when ownership is partitioned](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4832592)", with [Wataru Ishida](https://sites.google.com/view/wataruishida/home)
     - Revise and Resubmit at **_Games and Economic Behavior_**
 5. "[Obviously strategy-proof implementation for mixed-ownership object-allocation problems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4949058)"
